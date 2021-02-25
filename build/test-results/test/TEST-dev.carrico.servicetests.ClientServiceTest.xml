@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.carrico.servicetests.ClientServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-24T16:01:45" hostname="LAPTOP-BCCHPN74" time="0.039">
+  <properties/>
+  <testcase name="create_client()" classname="dev.carrico.servicetests.ClientServiceTest" time="0.029"/>
+  <testcase name="get_all_clients()" classname="dev.carrico.servicetests.ClientServiceTest" time="0.001"/>
+  <testcase name="get_client_by_id()" classname="dev.carrico.servicetests.ClientServiceTest" time="0.002"/>
+  <testcase name="update_client_by_id()" classname="dev.carrico.servicetests.ClientServiceTest" time="0.002"/>
+  <testcase name="delete_client_by_id()" classname="dev.carrico.servicetests.ClientServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

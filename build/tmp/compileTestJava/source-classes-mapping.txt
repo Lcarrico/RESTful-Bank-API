@@ -1,0 +1,10 @@
+dev/carrico/servicetests/ClientServiceTest.java
+ dev.carrico.servicetests.ClientServiceTest
+dev/carrico/utiltests/ConnectionTest.java
+ dev.carrico.utiltests.ConnectionTest
+dev/carrico/daotests/ClientDaoTest.java
+ dev.carrico.daotests.ClientDaoTest
+dev/carrico/servicetests/AccountServiceTest.java
+ dev.carrico.servicetests.AccountServiceTest
+dev/carrico/daotests/AccountDaoTest.java
+ dev.carrico.daotests.AccountDaoTest
